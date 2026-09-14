@@ -12,3 +12,4 @@ C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\refint\PaivakirjaSov
 C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.pdb
 C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.genruntimeconfig.cache
 C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\ref\PaivakirjaSovellus.dll
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.sourcelink.json
