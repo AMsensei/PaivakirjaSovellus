@@ -1,0 +1,14 @@
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\bin\Debug\net10.0\PaivakirjaSovellus.exe
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\bin\Debug\net10.0\PaivakirjaSovellus.deps.json
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\bin\Debug\net10.0\PaivakirjaSovellus.runtimeconfig.json
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\bin\Debug\net10.0\PaivakirjaSovellus.dll
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\bin\Debug\net10.0\PaivakirjaSovellus.pdb
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.AssemblyInfoInputs.cache
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.AssemblyInfo.cs
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.csproj.CoreCompileInputs.cache
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.dll
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\refint\PaivakirjaSovellus.dll
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.pdb
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\PaivakirjaSovellus.genruntimeconfig.cache
+C:\Users\Aliya\Desktop\PaivakirjaSovellus\obj\Debug\net10.0\ref\PaivakirjaSovellus.dll
