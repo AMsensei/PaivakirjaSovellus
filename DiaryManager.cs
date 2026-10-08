@@ -91,7 +91,7 @@ public class DiaryManager
             string content = entry.Content.Replace(Separator, '/');
 
             // string.Join glues the three parts together with the separator
-            string line = string.Join(Separator, entry.Date.ToString(DateFormat), title, content);
+            string line = string.Join(Separator, entry.Date.ToString(DateFormat, CultureInfo.InvariantCulture), title, content);
             lines.Add(line);
         }
 
