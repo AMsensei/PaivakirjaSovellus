@@ -2,7 +2,7 @@
 {
     static void Main() // Main is where the program starts.
     {
-        DiaryManager manager = new DiaryManager(); // Create the manager that holds all our entries
+        DiaryManager manager = new DiaryManager("diary.txt"); // Create the manager that holds all our entries
 
         bool running = true; // The loop keeps running until this becomes false
 

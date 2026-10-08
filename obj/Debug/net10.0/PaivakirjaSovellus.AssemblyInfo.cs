@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaivakirjaSovellus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e33f51d6ba645d640ca27f495a702ff7fc5e9a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae93e28f59614becc1809d621d0e10ec4b4b5cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaivakirjaSovellus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaivakirjaSovellus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
